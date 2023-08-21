@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Diagnosis</string>
+    <string-array name="airliur">
+        <item>Normal</item>
+        <item>Banyak</item>
+    </string-array>
+    <string-array name="kakipincang">
+        <item>Pincang</item>
+        <item>Tidak Pincang</item>
+    </string-array>
+    <string-array name="nafsumakan">
+        <item>Normal</item>
+        <item>Rendah</item>
+    </string-array>
+    <string-array name="lidahbengkak">
+        <item>Tidak Bengkak</item>
+        <item>Bengkak</item>
+    </string-array>
+    <string-array name="postur">
+        <item>Normal</item>
+        <item>Kurus</item>
+    </string-array>
+</resources>
